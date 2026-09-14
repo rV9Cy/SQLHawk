@@ -50,7 +50,7 @@ For practice, use intentionally vulnerable local labs:
 ### 🐧 Linux / macOS
 
 ```bash
-git clone https://github.com/yourusername/sqlhawk.git
+git clone https://github.com/rV9Cy/SQLHawk.git
 cd sqlhawk
 
 # Python dependencies
@@ -78,7 +78,7 @@ pkg install python git clang -y
 pkg install golang -y
 
 # 2. Get the project
-git clone https://github.com/yourusername/sqlhawk.git
+git clone https://github.com/rV9Cy/SQLHawk.git
 cd sqlhawk
 
 # 3. Python dependencies
@@ -143,7 +143,7 @@ Farsi | English ? (F/E): E
 Type YES to confirm you are authorized to test: YES
 
 Enter the target link to analyze: https://panel.vaslpro.com/
-[*] Crawling https://panel.vaslpro.com/ (max 25 pages)...
+[*] Crawling https://linksite/ (max 25 pages)...
 ...
 [+] Report saved to: sqlhawk_report.html
 
@@ -161,7 +161,7 @@ Add `--no-loop` if you only want to scan one link and exit right after:
 python -m sqlhawk.cli --no-loop
 ```
 
-`https://panel.vaslpro.com/` above is just an illustrative example —
+`https://panel.linksite.com/` above is just an illustrative example —
 only ever enter a link you are actually authorized to test.
 
 ### Non-interactive / scripted usage
