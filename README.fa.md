@@ -50,7 +50,7 @@ SQLHawk به‌صورت فعال به هر آدرسی که بدهید درخوا
 ### 🐧 لینوکس / macOS
 
 ```bash
-git clone https://github.com/yourusername/sqlhawk.git
+git clone https://github.com/rV9Cy/SQLHawk.git
 cd sqlhawk
 
 # نصب کتابخانه‌های پایتون
@@ -78,7 +78,7 @@ pkg install python git clang -y
 pkg install golang -y
 
 # ۲. دریافت پروژه
-git clone https://github.com/yourusername/sqlhawk.git
+git clone https://github.com/rV9Cy/SQLHawk.git
 cd sqlhawk
 
 # ۳. نصب کتابخانه‌های پایتون
@@ -141,8 +141,8 @@ Farsi | English ? (F/E): F
 ==============================================================
 برای تایید مجوز تست، عبارت YES را تایپ کنید: YES
 
-لینک سایت مورد نظر برای آنالیز را وارد کنید: https://panel.vaslpro.com/
-[*] در حال بررسی و خزیدن در https://panel.vaslpro.com/ ...
+لینک سایت مورد نظر برای آنالیز را وارد کنید: https://panel.linksite.com/
+[*] در حال بررسی و خزیدن در https://panel.linksite.com/ ...
 ...
 [+] گزارش ذخیره شد در: sqlhawk_report.html
 
@@ -159,7 +159,7 @@ Farsi | English ? (F/E): F
 python -m sqlhawk.cli --no-loop
 ```
 
-`https://panel.vaslpro.com/` بالا فقط یه مثاله — همیشه فقط لینکی که واقعاً مجاز به تستشی رو وارد کن.
+`https://panel.linksite.com/` بالا فقط یه مثاله — همیشه فقط لینکی که واقعاً مجاز به تستشی رو وارد کن.
 
 ### اجرای غیرتعاملی (برای اسکریپت/خودکار)
 
