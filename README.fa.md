@@ -244,3 +244,6 @@ sqlhawk/
 ## لایسنس
 
 MIT — فایل [LICENSE](LICENSE) رو ببین.
+
+
+با عشق از طرف rV8cy & claude 
